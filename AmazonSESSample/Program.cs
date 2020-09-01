@@ -42,7 +42,7 @@ namespace AmazonSESSample
             // Replace USWest2 with the AWS Region you're using for Amazon SES.
             // Acceptable values are EUWest1, USEast1, and USWest2.
             //Remember to enter your (AWSAccessKeyID, AWSSecretAccessKey) if not using and IAM User with credentials assigned to your instance and your RegionEndpoint
-            using (var client = new AmazonSimpleEmailServiceClient("AKIAJBJB24BLV7M32E4Q", "2YLxNH+uUT1ULQZIODMOZpiPIg4kBXy9lZ5bYDVd", RegionEndpoint.SAEast1))
+            using (var client = new AmazonSimpleEmailServiceClient("acesskey", "secretkey", RegionEndpoint.SAEast1))
             {
                 var sendRequest = new SendEmailRequest
                 {
