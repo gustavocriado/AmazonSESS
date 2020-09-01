@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AmazonSESSample.exe.config
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AmazonSESSample.exe
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AmazonSESSample.pdb
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AWSSDK.Core.dll
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AWSSDK.SimpleEmail.dll
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AWSSDK.Core.pdb
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AWSSDK.Core.xml
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AWSSDK.SimpleEmail.pdb
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\bin\Debug\AWSSDK.SimpleEmail.xml
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.csproj.CopyComplete
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.exe
+C:\Users\gusta\source\repos\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.pdb
